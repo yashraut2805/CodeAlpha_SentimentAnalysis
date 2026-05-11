@@ -51,17 +51,7 @@ Through this project, I learned:
 - Text classification
 - Data visualization using Python
 - Working with real-world review datasets
-
----
-
-## Project Screenshots
-
-### Sentiment Analysis Bar Graph
-![Graph](screenshots/graph1.png)
-
-### Sentiment Distribution Pie Chart
-![Graph](screenshots/graph2.png)
-
+  
 ---
 
 ## Author
